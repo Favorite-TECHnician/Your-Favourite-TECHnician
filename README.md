@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on many different things
 - 🤔 I’m looking for help with velocity,documentation, more insight as a Devop
 - 💬 Ask me about any tech related stuff
-- 📫 How to reach me:twitter
+- 📫 How to reach me: [twitter](twitter.com/oluwalovemiiii)
 - 😄 Pronouns: ...
-- ⚡ Fun fact:Always in  the kitchen
+- ⚡ Fun fact: Always in  the kitchen
 
