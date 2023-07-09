@@ -7,9 +7,8 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Journey as a Devop
 - 🌱 I’m currently learning  React, Azure , Swift
-- 🦴 I am familiar with various languages
+- 🦴 I am familiar with this languages
 -    ...Html, Css, Sass, JavaScript, Bootstrap⭐
--  I have use this languages to create astonishing and unique projects🌚
 - 👯 I’m looking to collaborate on many different things
 - 🤔 I’m looking for help with velocity,documentation, more insight as a Devop
 - 💬 Ask me about any tech related stuff
